@@ -12,7 +12,7 @@
 
 <body>
     {% from "_formhelpers.html" import render_field %}
-    <h3>Search Results</h3>
+    <h3>Search for courses</h3>
     <form method="post" class="common-page-form">
       <dl>
         {{ render_field(form.select) }}
@@ -22,12 +22,13 @@
         <p>
         {{ render_field(form.search) }}
       </p></dl>
-      <p>{{render_field(form.top)}} <button type="submit" value="Search" class="btn btn-primary common-page-submit-btn"></button>
+      <p>{{render_field(form.top)}} <button type="submit" value="Search" class="btn btn-primary common-page-submit-btn">Search</button>
     </p></form>
+    <h3>Search Results</h3>
 <div id="results-page-table-container">    
-{% for table in tables %}
-            {{ table|safe }}
-{% endfor %}
+  {% for table in tables %}
+              {{ table|safe }}
+  {% endfor %}
 </div>
 </body>
 </html>

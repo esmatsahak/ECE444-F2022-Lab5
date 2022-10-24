@@ -25,6 +25,6 @@
     border-bottom: 1px solid #00204E;   
 }
 
-#results-page-table-container table :is(td, th) :last-child {
+#results-page-table-container table :is(td:last-child, th:last-child) {
     border-right: 1px solid #00204E;   
 }
