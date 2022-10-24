@@ -17,3 +17,23 @@ Home Page
 Search Page
 
 ![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab5/blob/styling-practice/images/Search%20Results.PNG)
+
+**Activity 6**
+
+User Story 1
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab5/blob/styling-practice/images/Activity6_1.PNG)
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab5/blob/styling-practice/images/Activity6_2.jpg)
+
+User Story 2
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab5/blob/styling-practice/images/Activity6_3.PNG)
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab5/blob/styling-practice/images/Activity6_4.PNG)
+
+User Story 3
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab5/blob/styling-practice/images/Activity6_5.PNG)
+
+![alt text](https://github.com/esmatsahak/ECE444-F2022-Lab5/blob/styling-practice/images/Activity6_6.PNG)
